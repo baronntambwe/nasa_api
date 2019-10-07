@@ -18,6 +18,8 @@ The response to the rest request returns whether the api call to nasa was succes
 
 #### How to run the project
 
+`git clone https://github.com/baronntambwe/nasa_api.git`
+
 `cd ./nasa_api`
 
 `npm install`
