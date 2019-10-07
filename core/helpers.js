@@ -1,5 +1,5 @@
 const download = require('image-downloader')
-var fs = require('fs');
+const fs = require('fs');
 
 exports.saveImages = (photos) => {
 
