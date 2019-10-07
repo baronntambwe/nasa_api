@@ -12,7 +12,7 @@ The response to the rest request returns whether the api call to nasa was succes
 
 #### Technology Requirements
 
-> NodeJs v10.16.3 or greater
+> NodeJs v10.16.3 or greater and 
 > NPM v6.9.0 or greater
 
 
